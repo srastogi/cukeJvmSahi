@@ -1,4 +1,4 @@
-package fundtransfer.test;
+package login.test;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.junit.Cucumber;
